@@ -1,13 +1,11 @@
 # 🚀 C++ Problem Solving – Level 02
 
-This repository contains solutions to Level 02 programming problems designed to strengthen your fundamental skills in C++. Each problem focuses on key logic-building techniques, control flow mastery, and understanding the behavior of common built-in functions by recreating them manually.
-
+This repository contains solutions to programming problems I solved while taking the Algorithms and Problem Solving Level 2 course. The problems helped me develop my basic C++ skills. Each problem focuses on basic logic construction techniques and understanding the behavior of common built-in functions by manually recreating them.
 ---
 
 ## 🧠 Objectives
 
-- Strengthen understanding of core programming concepts.  
-- Practice solving real-world-like problems using basic constructs.  
+- Strengthen understanding of core programming concepts.   
 - Re-implement built-in C++ functions from scratch to understand inner workings.  
 - **Learn reusability** by breaking logic into reusable helper functions.  
 - Improve code organization and problem decomposition skills.
